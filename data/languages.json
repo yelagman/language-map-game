@@ -1,0 +1,30 @@
+[
+  {
+    "language": "Vietnamese",
+    "countries": [
+      { "country": "Vietnam", "speakers": 85000000 },
+      { "country": "United States", "speakers": 1500000 },
+      { "country": "France", "speakers": 400000 },
+      { "country": "Australia", "speakers": 300000 },
+      { "country": "Canada", "speakers": 250000 }
+    ]
+  },
+  {
+    "language": "Portuguese",
+    "countries": [
+      { "country": "Brazil", "speakers": 210000000 },
+      { "country": "Portugal", "speakers": 10000000 },
+      { "country": "Angola", "speakers": 20000000 },
+      { "country": "Mozambique", "speakers": 17000000 }
+    ]
+  },
+  {
+    "language": "French",
+    "countries": [
+      { "country": "France", "speakers": 65000000 },
+      { "country": "Canada", "speakers": 10000000 },
+      { "country": "Senegal", "speakers": 16000000 },
+      { "country": "Chad", "speakers": 12000000 }
+    ]
+  }
+]
